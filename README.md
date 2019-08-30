@@ -1,0 +1,2 @@
+# UrunTakip
+Adapeter Design Pattern
